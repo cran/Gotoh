@@ -1,0 +1,10 @@
+10c45086077803eba3d52f5efac66d9c *DESCRIPTION
+f8ca35b204d8a4463c2c61a382202b8b *NAMESPACE
+7c82e2c0084e7ad5d44ecb42327977db *R/Gotoh.R
+e246fd32e4995dab90f0c16681d871a3 *R/RcppExports.R
+3aa43c6773fdeaf61fc1c616811fc282 *man/Gotoh-package.Rd
+f5ea496fc6ea670ae63612329479d08e *man/gRCPP.Rd
+caca2d2dce39752b563433660b5eb573 *man/gotohRCPP.Rd
+97442918bd6c5e85f796fef0601b0f59 *src/Makevars
+7558cc49454d89d87d11e117c70fb375 *src/RcppExports.cpp
+04b7f5886cbd0cbd908159a6576af1db *src/gotohRCPP.cpp
